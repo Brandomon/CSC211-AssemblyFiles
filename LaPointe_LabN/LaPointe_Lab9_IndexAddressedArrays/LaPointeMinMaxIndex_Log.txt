@@ -1,0 +1,18 @@
+Please enter 10 integer values : 
+Enter an integer : 23
+Enter an integer : 62
+Enter an integer : 52
+Enter an integer : 34
+Enter an integer : 74
+Enter an integer : 35
+Enter an integer : 122
+Enter an integer : 93
+Enter an integer : 2
+Enter an integer : 62
+
+Array : 23, 62, 52, 34, 74, 35, 122, 93, 2, 62
+The minimum number is 2
+The maximum number is 122
+
+Brandon LaPointe ~ Due : 10/18/2021
+OCC Advisor : Sheila S. Sicilia

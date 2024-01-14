@@ -1,0 +1,4 @@
+Enter an integer : 173
+The integer entered is an odd number
+
+Brandon LaPointe 09/21/2021 

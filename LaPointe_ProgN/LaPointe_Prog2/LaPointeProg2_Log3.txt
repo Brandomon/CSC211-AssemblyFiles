@@ -1,0 +1,7 @@
+Enter the first integer : 1
+Enter the second integer : 2
+Enter the third integer : 3
+
+
+The smallest integer is : 1
+Brandon LaPointe 09/21/2021 

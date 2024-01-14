@@ -1,0 +1,8 @@
+Enter the variables for (a - b) + (c - d) * e
+Enter the integer for a : 12
+Enter the integer for b : 23
+Enter the integer for c : 34
+Enter the integer for d : 42
+Enter the integer for e : 143
+(12 - 23) + (34 - 42) * 143 = -1155
+Brandon LaPointe 09/15/2021 

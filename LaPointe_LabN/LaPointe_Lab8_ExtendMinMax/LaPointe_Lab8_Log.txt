@@ -1,0 +1,21 @@
+How many numbers will be entered? *Must be 15 or less* : 14
+Enter an integer : 123
+Enter an integer : 52
+Enter an integer : 346
+Enter an integer : 7543
+Enter an integer : 24
+Enter an integer : 12
+Enter an integer : 976
+Enter an integer : 46
+Enter an integer : 765
+Enter an integer : 37
+Enter an integer : 900
+Enter an integer : 1080
+Enter an integer : 654
+Enter an integer : 710
+
+Array: 123, 52, 346, 7543, 24, 12, 976, 46, 765, 37, 900, 1080, 654, 710
+
+The minimum number is : 12
+The maximum number is : 7543
+Brandon LaPointe ~ Due : 10/11/2021 ~ Favorite food : Ice Cream

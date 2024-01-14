@@ -1,0 +1,14 @@
+Enter 10 integers to find the average.
+Enter an integer : 13
+Enter an integer : 13
+Enter an integer : 13
+Enter an integer : 13
+Enter an integer : 13
+Enter an integer : 13
+Enter an integer : 13
+Enter an integer : 13
+Enter an integer : 14
+Enter an integer : 413
+Array: 13, 13, 13, 13, 13, 13, 13, 13, 14, 413, 
+The average is : 53
+Brandon LaPointe ~ Due : 10/11/2021 ~ Favorite color : Green

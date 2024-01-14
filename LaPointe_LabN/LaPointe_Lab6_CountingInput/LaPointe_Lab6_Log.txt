@@ -1,0 +1,3 @@
+Enter a string : My god, it finally works
+The length is : 24
+Brandon LaPointe 10/03/2021 

@@ -1,0 +1,5 @@
+Enter a string : alamo bandit
+Total characters : 12
+Vowel count is : 5
+Brandon LaPointe --- Due Date : 10/18/2021
+OCC Advisor : Sheila S. Sicilia
